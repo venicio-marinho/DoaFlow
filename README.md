@@ -20,6 +20,11 @@ O **DoaFlow** atende cenários de doações locais que envolvem **entrega físic
 
 Ele oferece controle e organização para pessoas ou grupos que desejam ajudar alguém em situação de vulnerabilidade, permitindo gerenciar campanhas e acompanhar doadores de forma clara.
 
+## Capturas
+
+![Página de campanhas](./screenshots/campaigns.png)
+![Página de doações](./screenshots/donations.png)
+
 ## ⚙️ Funcionalidades
 
 - Criação de campanhas
